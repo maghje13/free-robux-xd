@@ -1,0 +1,3 @@
+:A
+cmd
+goto A
